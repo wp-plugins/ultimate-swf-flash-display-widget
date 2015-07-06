@@ -194,7 +194,7 @@ class ultimate_swf_flash_display_widget extends WP_Widget{
 			<!--<![endif]-->
 		</object>
 		";}
-		$data .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='http://crescentappraisal.com/' title='click here' target='_blank'>Real Estate Appraisal Seattle</a></div>";
+		$data .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='http://crescentappraisal.com/' title='click here' target='_blank'>Seattle Estate Appraisal</a></div>";
 		echo $before_widget;
             echo $before_title . $title . $after_title;
 			echo $data;
